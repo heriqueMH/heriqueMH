@@ -29,8 +29,8 @@
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/matheus-henrique-2b8351190/)
-- E-mail: mh88533@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/matheus-henrique-2b8351190/)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mh88533@gmail.com)
 
 ---
 
