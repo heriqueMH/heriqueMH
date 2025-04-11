@@ -19,7 +19,7 @@
 
 ### Frontend
 - [Card React](https://github.com/heriqueMH/react-card-component)
-- [Menu Interativo](https://github.com/heriqueMH/html-css-js-menu-interativo)
+- [Menu Interativo](https://github.com/heriqueMH/html-menu-interativo)
 
 ### Outros Projetos
 - [BlackJack em Python](https://github.com/heriqueMH/python-jogo-blackjack)
