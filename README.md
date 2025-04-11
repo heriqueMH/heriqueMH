@@ -6,7 +6,7 @@
 
 🎓 Estudante de Sistemas de Informação - Mackenzie  
 💻 Desenvolvedor focado em transição de carreira para Java e Cloud Computing  
-🚀 Explorando tecnologias como Java, Spring Boot, React, Python, e integrações com APIs
+🚀 Explorando tecnologias como Java, Spring Boot, React, Python, Docker e integrações com APIs
 
 ---
 
