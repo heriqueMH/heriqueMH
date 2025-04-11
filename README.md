@@ -1,40 +1,45 @@
-Matheus Henrique de Oliveira Santos 👋
+# Matheus Henrique de Oliveira Santos 👋
 
-🎓 Estudante de Sistemas de Informação - Mackenzie💻 Desenvolvedor focado em transição de carreira para Java e Cloud Computing🚀 Explorando tecnologias como Java, Spring Boot, React, Python, e integrações com APIs
+[![GitHub followers](https://img.shields.io/github/followers/heriqueMH?style=social)](https://github.com/heriqueMH?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-perfil/)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heriqueMH&show_icons=true&theme=radical)](https://github.com/heriqueMH)
 
-🚀 Meus Projetos Principais
+🎓 Estudante de Sistemas de Informação - Mackenzie  
+💻 Desenvolvedor focado em transição de carreira para Java e Cloud Computing  
+🚀 Explorando tecnologias como Java, Spring Boot, React, Python, e integrações com APIs
 
-Backend
+---
 
-Gerenciamento de Funcionários
+## 🚀 Meus Projetos Principais
 
-Projeto Boleto
+### Backend
+- [Gerenciamento de Funcionários](https://github.com/heriqueMH/java-gerenciamento-funcionarios)
+- [Projeto Boleto](https://github.com/heriqueMH/java-gerador-boleto)
+- [OpenAI Integração](https://github.com/heriqueMH/python-openai-exploracao)
 
-OpenAI Integração
+### Frontend
+- [Card React](https://github.com/heriqueMH/react-card-component)
+- [Menu Interativo](https://github.com/heriqueMH/html-css-js-menu-interativo)
 
-Frontend
+### Outros Projetos
+- [BlackJack em Python](https://github.com/heriqueMH/python-jogo-blackjack)
+- [Reconhecimento de Gestos](https://github.com/heriqueMH/python-reconhecimento-gestos)
 
-Card React
+---
 
-Menu Interativo
+## 📫 Contato
 
-Outros Projetos
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
+- E-mail: seuemail@email.com
 
-BlackJack em Python
+---
 
-Reconhecimento de Gestos
+> _"A persistência realiza o impossível."_
 
-📫 Contato
+---
 
-LinkedIn: Seu perfil
-
-E-mail: seuemail@email.com
-
-"A persistência realiza o impossível."
-
-Sobre Mim
+### Sobre Mim
 
 Sou apaixonado por tecnologia e sempre em busca de novos desafios. Atualmente, trabalho como Técnico de TI e estou direcionando minha carreira para desenvolvimento backend com Java e cloud computing. Meus projetos refletem minha jornada de aprendizado, que vai desde soluções simples de automação até integrações com APIs modernas e desenvolvimento de componentes front-end.
 
 Aqui você encontra um pouco do meu trabalho prático, que estou constantemente atualizando e aprimorando!
--->
