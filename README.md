@@ -14,7 +14,7 @@
 
 ### Backend
 - [Gerenciamento de Funcionários](https://github.com/heriqueMH/java-gerenciamento-funcionarios)
-- [Projeto Boleto](https://github.com/heriqueMH/java-gerador-boleto)
+- [Projeto REST](https://github.com/heriqueMH/java-projeto-n2)
 - [OpenAI Integração](https://github.com/heriqueMH/python-openai-exploracao)
 
 ### Frontend
@@ -22,7 +22,6 @@
 - [Menu Interativo](https://github.com/heriqueMH/html-menu-interativo)
 
 ### Outros Projetos
-- [BlackJack em Python](https://github.com/heriqueMH/python-jogo-blackjack)
 - [Reconhecimento de Gestos](https://github.com/heriqueMH/python-reconhecimento-gestos)
 
 ---
