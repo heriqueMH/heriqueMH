@@ -29,8 +29,8 @@
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-- E-mail: seuemail@email.com
+- [LinkedIn](https://www.linkedin.com/in/matheus-henrique-2b8351190/)
+- E-mail: mh88533@gmail.com
 
 ---
 
