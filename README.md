@@ -39,6 +39,6 @@
 
 ### Sobre Mim
 
-Sou apaixonado por tecnologia e sempre em busca de novos desafios. Atualmente, trabalho como Técnico de TI e estou direcionando minha carreira para desenvolvimento backend com Java e cloud computing. Meus projetos refletem minha jornada de aprendizado, que vai desde soluções simples de automação até integrações com APIs modernas e desenvolvimento de componentes front-end.
+Sou apaixonado por tecnologia e sempre em busca de novos desafios. Atualmente, trabalho como Técnico de TI e estou direcionando minha carreira para desenvolvimento backend com Java e cloud computing. Meus projetos refletem minha jornada de aprendizado, que vão desde soluções simples de automação até integrações com APIs e desenvolvimento de componentes front-end.
 
 Aqui você encontra um pouco do meu trabalho prático, que estou constantemente atualizando e aprimorando!
