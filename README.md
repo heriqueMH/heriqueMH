@@ -37,7 +37,7 @@
 
 ### 🚀 Sobre Mim
 
-> _"A persistência realiza o impossível."_
+> _"O ritimo vence a pressa."_
 
 Sou **Técnico de TI** e estudante de **Sistemas de Informação no Mackenzie**. Atualmente, estou focado na transição de carreira para o desenvolvimento **Backend** e **Cloud Computing**.
 
