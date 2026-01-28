@@ -52,8 +52,3 @@ Meus estudos e projetos são direcionados para:
 | **Frontend** | [**React Card Component**](https://github.com/heriqueMH/react-card-component)<br>Componentização moderna. | `React` `CSS` |
 
 ---
-
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/heriqueMH/count.svg" />
-</div>
