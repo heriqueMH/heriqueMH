@@ -1,44 +1,65 @@
-# Matheus Henrique de Oliveira Santos 👋
+<div align="center">
+  <h1>Matheus Henrique de Oliveira Santos</h1>
+  
+  <p>
+    <a href="https://github.com/heriqueMH?tab=followers">
+      <img src="https://img.shields.io/github/followers/heriqueMH?style=for-the-badge&logo=github&color=232136&labelColor=1a1b26" alt="Followers" />
+    </a>
+    <a href="https://www.linkedin.com/in/matheus-henrique-2b8351190/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&color=0A66C2&labelColor=1a1b26" alt="LinkedIn" />
+    </a>
+    <a href="mailto:mh88533@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&color=EA4335&labelColor=1a1b26" alt="Email" />
+    </a>
+  </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/heriqueMH?style=social)](https://github.com/heriqueMH?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seu-perfil/)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heriqueMH&show_icons=true&theme=radical)](https://github.com/heriqueMH)
+  <br />
 
-🎓 Estudante de Sistemas de Informação - Mackenzie  
-💻 Desenvolvedor focado em transição de carreira para Java e Cloud Computing  
-🚀 Explorando tecnologias como Java, Spring Boot, React, Python, Docker e integrações com APIs
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=heriqueMH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+  </a>
 
----
+  <br /><br />
 
-## 🚀 Meus Projetos Principais
+  <h3>💻 Tech Stack & Tools</h3>
+  
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,python,docker,kubernetes,mysql,linux,git,postman,vscode&perline=12&theme=dark" />
+  </p>
 
-### Backend
-- [Gerenciamento de Funcionários](https://github.com/heriqueMH/java-gerenciamento-funcionarios)
-- [Projeto REST](https://github.com/heriqueMH/java-projeto-n2)
-- [OpenAI Integração](https://github.com/heriqueMH/python-openai-exploracao)
+  <br />
 
-### Frontend
-- [Card React](https://github.com/heriqueMH/react-card-component)
-- [Menu Interativo](https://github.com/heriqueMH/html-menu-interativo)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heriqueMH&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="160" />
 
-### Outros Projetos
-- [Reconhecimento de Gestos](https://github.com/heriqueMH/python-reconhecimento-gestos)
+</div>
 
----
+<hr />
 
-## 📫 Contato
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/matheus-henrique-2b8351190/)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mh88533@gmail.com)
-
----
+### 🚀 Sobre Mim
 
 > _"A persistência realiza o impossível."_
 
+Sou **Técnico de TI** e estudante de **Sistemas de Informação no Mackenzie**. Atualmente, estou focado na transição de carreira para o desenvolvimento **Backend** e **Cloud Computing**.
+
+Meus estudos e projetos são direcionados para:
+* ☕ **Java & Spring Boot:** Arquitetura de microsserviços e APIs robustas.
+* ☁️ **Cloud & DevOps:** Explorando Docker, Kubernetes e infraestrutura ágil.
+* ⚛️ **Frontend:** Criação de interfaces modernas com React e Next.js para complementar o backend.
+
 ---
 
-### Sobre Mim
+### 📂 Projetos em Destaque
 
-Sou apaixonado por tecnologia e movido por novos desafios. Atuo como Técnico de TI, enquanto direciono minha carreira para o desenvolvimento backend com Java, Spring Boot e arquitetura de microsserviços, além de cloud computing. Meus projetos refletem essa trajetória, indo desde automações simples até integrações com APIs, construção de microsserviços e desenvolvimento de componentes front-end com React.
+| Categoria | Projeto | Techs |
+| :--- | :--- | :--- |
+| **Backend** | [**Gerenciamento de Funcionários**](https://github.com/heriqueMH/java-gerenciamento-funcionarios)<br>Sistema de gestão corporativa. | `Java` `Spring` |
+| **Backend** | [**Projeto REST N2**](https://github.com/heriqueMH/java-projeto-n2)<br>API RESTful completa. | `Java` `Maven` |
+| **AI / Data** | [**OpenAI Integração**](https://github.com/heriqueMH/python-openai-exploracao)<br>Exploração da API da OpenAI. | `Python` `AI` |
+| **Frontend** | [**React Card Component**](https://github.com/heriqueMH/react-card-component)<br>Componentização moderna. | `React` `CSS` |
 
-Aqui você encontra um pouco do meu trabalho prático, que estou constantemente atualizando e aprimorando!
+---
+
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/heriqueMH/count.svg" />
+</div>
