@@ -15,10 +15,6 @@
 
   <br />
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=heriqueMH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
-  </a>
-
   <br /><br />
 
   <h3>💻 Tech Stack & Tools</h3>
@@ -28,8 +24,6 @@
   </p>
 
   <br />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heriqueMH&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="160" />
 
 </div>
 
